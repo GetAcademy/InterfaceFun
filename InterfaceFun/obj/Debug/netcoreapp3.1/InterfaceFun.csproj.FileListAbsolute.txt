@@ -1,0 +1,17 @@
+C:\Users\Terje\source\repos\InterfaceFun\InterfaceFun\bin\Debug\netcoreapp3.1\InterfaceFun.exe
+C:\Users\Terje\source\repos\InterfaceFun\InterfaceFun\obj\Debug\netcoreapp3.1\InterfaceFun.csprojAssemblyReference.cache
+C:\Users\Terje\source\repos\InterfaceFun\InterfaceFun\obj\Debug\netcoreapp3.1\InterfaceFun.AssemblyInfoInputs.cache
+C:\Users\Terje\source\repos\InterfaceFun\InterfaceFun\obj\Debug\netcoreapp3.1\InterfaceFun.AssemblyInfo.cs
+C:\Users\Terje\source\repos\InterfaceFun\InterfaceFun\bin\Debug\netcoreapp3.1\InterfaceFun.deps.json
+C:\Users\Terje\source\repos\InterfaceFun\InterfaceFun\bin\Debug\netcoreapp3.1\InterfaceFun.runtimeconfig.json
+C:\Users\Terje\source\repos\InterfaceFun\InterfaceFun\bin\Debug\netcoreapp3.1\InterfaceFun.runtimeconfig.dev.json
+C:\Users\Terje\source\repos\InterfaceFun\InterfaceFun\bin\Debug\netcoreapp3.1\InterfaceFun.dll
+C:\Users\Terje\source\repos\InterfaceFun\InterfaceFun\bin\Debug\netcoreapp3.1\InterfaceFun.pdb
+C:\Users\Terje\source\repos\InterfaceFun\InterfaceFun\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Terje\source\repos\InterfaceFun\InterfaceFun\obj\Debug\netcoreapp3.1\InterfaceFun.csproj.CoreCompileInputs.cache
+C:\Users\Terje\source\repos\InterfaceFun\InterfaceFun\obj\Debug\netcoreapp3.1\InterfaceFun.csproj.CopyComplete
+C:\Users\Terje\source\repos\InterfaceFun\InterfaceFun\obj\Debug\netcoreapp3.1\InterfaceFun.dll
+C:\Users\Terje\source\repos\InterfaceFun\InterfaceFun\obj\Debug\netcoreapp3.1\InterfaceFun.pdb
+C:\Users\Terje\source\repos\InterfaceFun\InterfaceFun\obj\Debug\netcoreapp3.1\InterfaceFun.genruntimeconfig.cache
+C:\Users\Terje\source\repos\InterfaceFun\InterfaceFun\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Terje\source\repos\InterfaceFun\InterfaceFun\bin\Debug\netcoreapp3.1\Core.pdb
