@@ -1,7 +1,6 @@
 C:\Users\Terje\source\repos\InterfaceFun\Core\bin\Debug\netcoreapp3.1\Core.deps.json
 C:\Users\Terje\source\repos\InterfaceFun\Core\bin\Debug\netcoreapp3.1\Core.dll
 C:\Users\Terje\source\repos\InterfaceFun\Core\bin\Debug\netcoreapp3.1\Core.pdb
-C:\Users\Terje\source\repos\InterfaceFun\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
 C:\Users\Terje\source\repos\InterfaceFun\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
 C:\Users\Terje\source\repos\InterfaceFun\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
 C:\Users\Terje\source\repos\InterfaceFun\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache

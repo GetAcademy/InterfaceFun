@@ -17,12 +17,12 @@ namespace InterfaceFun
         static async Task Test()
         {
             //var service = new JokeMagicService(new ChuckNorrisJokeService());
-            var service = new JokeMagicService(new TerjeJokeService());
-            var jokes = await service.GetJokesWithSameWord(5);
-            foreach (var joke in jokes)
-            {
-                Console.WriteLine(joke.Text);
-            }
+            //var service = new JokeMagicService(new TerjeJokeService());
+            //var jokes = await service.GetJokesWhichStartsWithWord(5);
+            //foreach (var joke in jokes)
+            //{
+            //    Console.WriteLine(joke.Text);
+            //}
         }
     }
 }
