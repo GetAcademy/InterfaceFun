@@ -46,5 +46,21 @@ namespace UnitTest
             mock.Verify(s=>s.GetJokeWithWord("en"));
             mock.VerifyNoOtherCalls();
         }
+
+        [Test]
+        public async Task Test3()
+        {
+            // arrange
+            var mock = new Mock<IJokeApiService>();
+            mock.Setup(s => s.GetJokeWithWord(It.IsAny<string>())).Returns(
+                Task.FromResult(new Joke[0]));
+
+            // act
+            var service = new JokeMagicService(mock.Object);
+            var joke = await service.GetJokesWhichStartsWithWord("en");
+
+            // assert
+            Assert.IsNull(joke);
+        }
     }
 }
